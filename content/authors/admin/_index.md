@@ -1,7 +1,7 @@
 ---
 title: Xianjing Li
 role: BE of Material Science and Engineering
-avatar_filename: lxj.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
