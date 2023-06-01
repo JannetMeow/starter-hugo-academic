@@ -27,4 +27,3 @@ first_name: Alice
 email: XianjingLi0609@163.com
 ---
 Xianjing Li is a undergraduate student at Nanjing University of Science and Technology of material Science and E. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;
