@@ -8,49 +8,24 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+social: []
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Alliance
+    url: https://www.rm-alliance.icu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BE in Material Science and Engineering
+      institution: " Nanjing University of Science and Technology"
+      year: 2020
 superuser: true
+user_groups:
+  - https://www.rm-alliance.icu/
 status:
   icon: ☕️
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: XianjingLi0609@163.com
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
